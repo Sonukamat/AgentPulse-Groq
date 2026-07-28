@@ -11,6 +11,8 @@
 
 ## 🖼️ Application UI Preview
 
+<img width="1917" height="1018" alt="Screenshot 2026-07-28 144516" src="https://github.com/user-attachments/assets/f6658814-f558-411f-84af-5e6f5581bc74" />
+
 <img width="1853" height="760" alt="Screenshot 2026-07-28 144534" src="https://github.com/user-attachments/assets/4cd84855-74ce-4498-8b67-c117ace67359" />
 
 
