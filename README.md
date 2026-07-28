@@ -9,6 +9,13 @@
 
 ---
 
+## 🖼️ Application UI Preview
+
+<img width="1853" height="760" alt="Screenshot 2026-07-28 144534" src="https://github.com/user-attachments/assets/4cd84855-74ce-4498-8b67-c117ace67359" />
+
+
+---
+
 ## 🌟 Features & Agents
 
 | Agent Name | Description | Key Tools / DB |
